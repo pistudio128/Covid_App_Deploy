@@ -139,7 +139,6 @@ pyflakes==2.2.0
 Pygments
 pylint
 pymongo==3.11.0
-pyodbc===4.0.1
 pyOpenSSL
 pyparsing==2.4.7
 pyrsistent
